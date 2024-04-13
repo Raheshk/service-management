@@ -1,0 +1,36 @@
+h1 {
+  text-align: center;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+table,
+td,
+th {
+  width: 1170px;
+  height: 66px;
+  opacity: 0px;
+  border: solid 1px;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+}
+.service-color {
+  color: darkgoldenrod;
+}
+th {
+  font-family: Mulish;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 22.59px;
+  text-align: left;
+  background-color: #f4f4f4;
+}
+.td-color {
+  color: yellowgreen;
+}
+.aTAG a {
+  text-decoration: none;
+}

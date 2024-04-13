@@ -1,0 +1,38 @@
+.service1details {
+  text-align: center;
+  font-family: Inter;
+  font-size: 28px;
+  font-weight: 500;
+  line-height: 33.89px;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+table,
+th,
+td {
+  border: solid 1px #d9d9d9;
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  width: 1168px;
+  height: 66px;
+  border: 0px 0px 1px 0px;
+  opacity: 0px;
+}
+
+th {
+  font-family: Mulish;
+  background-color: #f4f4f4;
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 22.59px;
+  text-align: left;
+}
+.td-color {
+  color: yellowgreen;
+}
+.aTAG a {
+  text-decoration: none;
+}
